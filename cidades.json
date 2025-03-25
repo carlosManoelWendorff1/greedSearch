@@ -1,0 +1,1744 @@
+{
+  "Abdon Batista": {
+    "Campos Novos": 10,
+    "Zortéa": 15
+  },
+  "Abelardo Luz": {
+    "Ipuaçu": 10,
+    "Seara": 12,
+    "Videira": 15
+  },
+  "Agrolândia": {
+    "Atalanta": 10,
+    "Petrolândia": 12,
+    "Taió": 15
+  },
+  "Agronômica": {
+    "Rio do Sul": 8,
+    "Aurora": 10,
+    "Lontras": 12
+  },
+  "Água Doce": {
+    "Arabutã": 15,
+    "Jaborá": 19,
+    "Jaborá": 25,
+    "Lacerdópolis": 15,
+    "Luzerna": 15,
+    "Macieira": 12,
+    "Monte Castelo": 22,
+    "Treze Tílias": 12
+  },
+  "Águas de Chapecó": {
+    "Caibi": 15,
+    "São Carlos": 18,
+    "Seara": 20
+  },
+  "Águas Frias": {
+    "Guatambú": 18,
+    "Chapecó": 20,
+    "Seara": 22
+  },
+  "Águas Mornas": {
+    "Alfredo Wagner": 10,
+    "Anitápolis": 15,
+    "Antônio Carlos": 18,
+    "Rancho Queimado": 20,
+    "Santo Amaro da Imperatriz": 12
+  },
+  "Águas Vermelhas": {
+    "Braço do Trombudo": 10,
+    "Rio do Oeste": 15,
+    "Trombudo Central": 18
+  },
+  "Aguti": {
+    "Celso Ramos": 8,
+    "Curitibanos": 12,
+    "Frei Rogério": 15,
+    "Monte Carlo": 20
+  },
+  "Aiurê": {
+    "Concórdia": 10,
+    "Herval d'Oeste": 15,
+    "Ipumirim": 18,
+    "Jupiá": 20
+  },
+  "Alfredo Wagner": {
+    "Angelina": 10,
+    "Águas Mornas": 10,
+    "Rancho Queimado": 8,
+    "São Bonifácio": 12
+  },
+  "Alto Bela Vista": {
+    "Arabutã": 15,
+    "Concórdia": 20,
+    "Irani": 18
+  },
+  "Anchieta": {
+    "Guaraciaba": 20,
+    "Guarujá do Sul": 25,
+    "Palma Sola": 12,
+    "Palmitos": 22
+  },
+  "Angelina": {
+    "Anitápolis": 8,
+    "Leoberto Leal": 18,
+    "Major Gercino": 15,
+    "Alfredo Wagner": 10
+  },
+  "Anita Garibaldi": {
+    "Lages": 25,
+    "Capão Alto": 12,
+    "Cerro Negro": 15,
+    "Ponte Alta": 20
+  },
+  "Anitápolis": {
+    "Angelina": 8,
+    "Leoberto Leal": 18,
+    "Major Gercino": 15,
+    "São Bonifácio": 20
+  },
+  "Antônio Carlos": {
+    "Águas Mornas": 18,
+    "Biguaçu": 20,
+    "Governador Celso Ramos": 18,
+    "Santo Amaro da Imperatriz": 10
+  },
+  "Apiúna": {
+    "Ascurra": 10,
+    "Blumenau": 18,
+    "Indaial": 20,
+    "Rio dos Cedros": 15
+  },
+  "Arabutã": {
+    "Alto Bela Vista": 15,
+    "Ipumirim": 20,
+    "Ipira": 22,
+    "Xaxim": 25
+  },
+  "Araquari": {
+    "Barra Velha": 10,
+    "Guaramirim": 20,
+    "Itapoá": 22,
+    "Joinville": 22
+  },
+  "Araranguá": {
+    "Jacinto Machado": 22,
+    "Maracajá": 12,
+    "Meleiro": 15,
+    "Sombrio": 18
+  },
+  "Armazém": {
+    "Grão Pará": 12,
+    "Gravatal": 18,
+    "Laguna": 22,
+    "Tubarão": 25
+  },
+  "Arroio Trinta": {
+    "Fraiburgo": 20,
+    "Herval d'Oeste": 22,
+    "Treze Tílias": 18,
+    "Videira": 25
+  },
+  "Arvoredo": {
+    "Concórdia": 25,
+    "Erval Velho": 15,
+    "Irani": 12,
+    "Xanxerê": 18
+  },
+  "Ascurra": {
+    "Apiúna": 10,
+    "Indaial": 15,
+    "Rio dos Cedros": 12,
+    "Rodeio": 18
+  },
+  "Atalanta": {
+    "Agrolândia": 10,
+    "Petrolândia": 15,
+    "Presidente Nereu": 20,
+    "Santa Terezinha": 22
+  },
+  "Aurora": {
+    "Agrolândia": 10,
+    "Petrolândia": 15,
+    "Presidente Nereu": 20,
+    "Santa Terezinha": 22
+  },
+  "Balneário Arroio do Silva": {
+    "Araranguá": 10,
+    "Jacinto Machado": 15,
+    "Maracajá": 18,
+    "Sombrio": 20
+  },
+  "Balneário Barra do Sul": {
+    "Barra Velha": 10,
+    "Itapoá": 20,
+    "São Francisco do Sul": 25
+  },
+  "Balneário Camboriú": {
+    "Camboriú": 8,
+    "Itajaí":
+
+ 15,
+    "Itapema": 15,
+    "Navegantes": 15
+  },
+  "Balneário Gaivota": {
+    "Ermo": 10,
+    "Jacinto Machado": 15,
+    "Meleiro": 18,
+    "Sombrio": 20
+  },
+  "Balneário Piçarras": {
+    "Itajaí": 25,
+    "Navegantes": 20,
+    "Penha": 12
+  },
+  "Balneário Rincão": {
+    "Criciúma": 10,
+    "Içara": 15,
+    "Morro da Fumaça": 8,
+    "Siderópolis": 18
+  },
+  "Bandeirante": {
+    "Dionísio Cerqueira": 20,
+    "Itapiranga": 25,
+    "São Miguel do Oeste": 18
+  },
+  "Barra Bonita": {
+    "Bandeirante": 20,
+    "Dionísio Cerqueira": 25,
+    "Itapiranga": 18
+  },
+  "Barra Velha": {
+    "Balneário Barra do Sul": 10,
+    "Itapoá": 20,
+    "São Francisco do Sul": 25
+  },
+  "Bela Vista do Toldo": {
+    "Canoinhas": 12,
+    "Irineópolis": 12,
+    "Major Vieira": 20,
+    "Porto União": 25
+  },
+  "Belmonte": {
+    "Dionísio Cerqueira": 10,
+    "São José do Cedro": 15,
+    "São Lourenço do Oeste": 18
+  },
+  "Benedito Novo": {
+    "Doutor Pedrinho": 20,
+    "Indaial": 28,
+    "Pomerode": 30,
+    "Timbó": 35
+  },
+  "Biguaçu": {
+    "Antônio Carlos": 20,
+    "Governador Celso Ramos": 15,
+    "Palhoça": 28,
+    "Santo Amaro da Imperatriz": 12
+  },
+  "Blumenau": {
+    "Gaspar": 10,
+    "Ilhota": 15,
+    "Indaial": 15,
+    "Pomerode": 30
+  },
+  "Bocaina do Sul": {
+    "Lages": 20,
+    "Otacílio Costa": 25,
+    "Painel": 20
+  },
+  "Bom Jardim da Serra": {
+    "Orleans": 25,
+    "São Joaquim": 10,
+    "Urubici": 12,
+    "Urupema": 18
+  },
+  "Bom Jesus": {
+    "Campos Novos": 10,
+    "Lacerdópolis": 18,
+    "Tangará": 15,
+    "Videira": 20
+  },
+  "Bom Jesus do Oeste": {
+    "Iporã do Oeste": 18,
+    "Mondaí": 18,
+    "São Miguel do Oeste": 20
+  },
+  "Bom Retiro": {
+    "Lages": 25,
+    "Otacílio Costa": 12,
+    "Painel": 15
+  },
+  "Bombinhas": {
+    "Itapema": 10,
+    "Porto Belo": 8,
+    "Tijucas": 15
+  },
+  "Botuverá": {
+    "Brusque": 12,
+    "Guabiruba": 8,
+    "Nova Trento": 15
+  },
+  "Braço do Norte": {
+    "Gravatal": 18,
+    "Lauro Muller": 10,
+    "Orleans": 10,
+    "Urussanga": 20
+  },
+  "Braço do Trombudo": {
+    "Águas Vermelhas": 10,
+    "Taió": 12,
+    "Trombudo Central": 15
+  },
+  "Brunópolis": {
+    "Monte Carlo": 20,
+    "Santa Cecília": 12,
+    "Vargem": 15
+  },
+  "Brusque": {
+    "Botuverá": 12,
+    "Gaspar": 15,
+    "Guabiruba": 12,
+    "Itajaí": 18
+  },
+  "Caçador": {
+    "Calmon": 18,
+    "Lebon Régis": 10,
+    "Matos Costa": 20,
+    "Videira": 25
+  },
+  "Caibi": {
+    "Águas de Chapecó": 15,
+    "São Carlos": 18,
+    "Seara": 20
+  },
+  "Calmon": {
+    "Caçador": 18,
+    "Lebon Régis": 8,
+    "Macieira": 18,
+    "Matos Costa": 18
+  },
+  "Camboriú": {
+    "Balneário Camboriú": 8,
+    "Itajaí": 15,
+    "Itapema": 8
+  },
+  "Campo Alegre": {
+    "Joinville": 30,
+    "Jaraguá do Sul": 30,
+    "São Bento do Sul": 20,
+    "São Francisco do Sul": 28
+  },
+  "Campo Belo do Sul": {
+    "Abdon Batista": 12,
+    "Campos Novos": 15,
+    "Celso Ramos": 20
+  },
+  "Campo Erê": {
+    "Dionísio Cerqueira": 15,
+    "Palma Sola": 25,
+    "São Bernardino": 18
+  },
+  "Campos Novos": {
+    "Abdon Batista": 10,
+    "Bom Jesus": 10,
+    "Campo Belo do Sul": 15,
+    "Irani": 15,
+    "Monte Carlo": 25
+  },
+  "Canelinha": {
+    "Brusque": 15,
+    "Nova Trento": 25,
+    "São João Batista": 12,
+    "Tijucas": 20
+  },
+  "Canoinhas": {
+    "Major Vieira": 15,
+    "Mafra": 25,
+    "Papanduva": 20,
+    "Porto União": 30
+  },
+  "Capão Alto": {
+    "Anita Garibaldi": 12,
+    "Lages": 20,
+    "Otacílio Costa": 25,
+    "Painel": 20
+  },
+  "Capinzal": {
+    "Ouro": 15,
+   
+
+ "Luzerna": 12,
+    "Zortéa": 20
+  },
+  "Capivari de Baixo": {
+    "Imaruí": 15,
+    "Jaguaruna": 22,
+    "Tubarão": 18
+  },
+  "Catanduvas": {
+    "Jaborá": 8,
+    "Vargem Bonita": 12,
+    "Vargem": 15
+  },
+  "Caxambu do Sul": {
+    "Chapecó": 10,
+    "Guatambú": 12,
+    "Xaxim": 15
+  },
+  "Celso Ramos": {
+    "Abdon Batista": 15,
+    "Campo Belo do Sul": 20,
+    "Campos Novos": 15,
+    "Frei Rogério": 22
+  },
+  "Cerro Negro": {
+    "Matos Costa": 10,
+    "Ponte Alta do Norte": 15,
+    "Timbó Grande": 18,
+    "Ponte Alta": 20
+  },
+  "Chapadão do Lageado": {
+    "Aurora": 10,
+    "Laurentino": 10,
+    "Rio do Oeste": 12
+  },
+  "Chapecó": {
+    "Guatambú": 15,
+    "Itá": 18,
+    "Xaxim": 20
+  },
+  "Cocal do Sul": {
+    "Criciúma": 18,
+    "Forquilhinha": 15,
+    "Içara": 10
+  },
+  "Concórdia": {
+    "Jupiá": 18,
+    "Arvoredo": 25,
+    "Irani": 15,
+    "Itá": 20
+  },
+  "Cordilheira Alta": {
+    "Coronel Freitas": 18,
+    "Seara": 20,
+    "Vargeão": 22
+  },
+  "Coronel Freitas": {
+    "Cordilheira Alta": 18,
+    "Ipuaçu": 15,
+    "Xanxerê": 20
+  },
+  "Coronel Martins": {
+    "Xaxim": 10,
+    "Xanxerê": 12,
+    "São Domingos": 15
+  },
+  "Correia Pinto": {
+    "Lages": 15,
+    "Otacílio Costa": 15,
+    "Painel": 18,
+    "Palmeira": 18
+  },
+  "Corupá": {
+    "Guaramirim": 10,
+    "Jaraguá do Sul": 21,
+    "Joinville": 25,
+    "Pomerode": 30
+  },
+  "Criciúma": {
+    "Forquilhinha": 8,
+    "Içara": 10,
+    "Morro da Fumaça": 10,
+    "Siderópolis": 15
+  },
+  "Cunha Porã": {
+    "Guaraciaba": 20,
+    "Maravilha": 20,
+    "Palmitos": 18,
+    "São Carlos": 25
+  },
+  "Cunhataí": {
+    "Guaraciaba": 15,
+    "Palmitos": 22,
+    "São Carlos": 18
+  },
+  "Curitibanos": {
+    "Monte Carlo": 28,
+    "Ponte Alta": 10,
+    "Ponte Alta do Norte": 15
+  },
+  "Descanso": {
+    "Itapiranga": 10,
+    "Iporã do Oeste": 15,
+    "Mondaí": 15,
+    "São Miguel do Oeste": 18
+  },
+  "Dionísio Cerqueira": {
+    "Bandeirante": 20,
+    "Barra Bonita": 25,
+    "Bom Jesus do Oeste": 15,
+    "Itapiranga": 25
+  },
+  "Dona Emma": {
+    "Ibirama": 12,
+    "José Boiteux": 18,
+    "Rio do Campo": 20,
+    "Rio do Oeste": 15
+  },
+  "Doutor Pedrinho": {
+    "Benedito Novo": 20,
+    "Indaial": 12,
+    "Rio dos Cedros": 15,
+    "Timbó": 18
+  },
+  "Entre Rios": {
+    "Camboriú": 12,
+    "Itapema": 15,
+    "Porto Belo": 10
+  },
+  "Ermo": {
+    "Balneário Gaivota": 10,
+    "Jacinto Machado": 20,
+    "Sombrio": 12,
+    "Turvo": 15
+  },
+  "Erval Velho": {
+    "Arvoredo": 15,
+    "Herval d'Oeste": 20,
+    "Jaborá": 25,
+    "Jaborá": 28
+  },
+  "Faxinal dos Guedes": {
+    "Lacerdópolis": 18,
+    "Marema": 18,
+    "Ouro Verde": 12,
+    "Vargeão": 15
+  },
+  "Flor do Sertão": {
+    "Guaraciaba": 18,
+    "Guarujá do Sul": 12,
+    "São José do Cedro": 15
+  },
+  "Florianópolis": {
+    "Biguaçu": 15,
+    "Palhoça": 35,
+    "Santo Amaro da Imperatriz": 25,
+    "São José": 12
+  },
+  "Formosa do Sul": {
+    "Chapecó": 12,
+    "Planalto Alegre": 15,
+    "Quilombo": 18
+  },
+  "Forquilhinha": {
+    "Criciúma": 8,
+    "Morro da Fumaça": 8,
+    "Nova Veneza": 15,
+    "Siderópolis": 18
+  },
+  "Fraiburgo": {
+    "Lebon Régis": 18,
+    "Monte Carlo": 22,
+    "Pinheiro Preto": 15,
+    "Videira": 25
+  },
+  "Frei Rogério": {
+    "Abelardo Luz": 15,
+    "Campos Novos": 20,
+    "Cerro Negro": 15,
+    "Videira": 22
+  },
+  "Galvão": {
+    "Concórdia": 18,
+    "Irani": 20,
+    "Ipumirim": 15
+  },
+  "Garopaba": {
+    "Imbituba": 15,
+    "Imaruí": 18
+
+,
+    "Laguna": 25,
+    "Paulo Lopes": 20
+  },
+  "Garuva": {
+    "Itapoá": 10,
+    "Joinville": 18,
+    "São Francisco do Sul": 20
+  },
+  "Gaspar": {
+    "Blumenau": 10,
+    "Brusque": 15,
+    "Ilhota": 10
+  },
+  "Governador Celso Ramos": {
+    "Antônio Carlos": 18,
+    "Biguaçu": 15,
+    "Santo Amaro da Imperatriz": 18,
+    "São José": 25
+  },
+  "Grão Pará": {
+    "Armazém": 12,
+    "Gravatal": 15,
+    "Rio Fortuna": 18,
+    "Tubarão": 20
+  },
+  "Gravatal": {
+    "Armazém": 18,
+    "Braço do Norte": 18,
+    "Rio Fortuna": 12,
+    "Tubarão": 15
+  },
+  "Guabiruba": {
+    "Botuverá": 8,
+    "Brusque": 12,
+    "Nova Trento": 15
+  },
+  "Guaraciaba": {
+    "Anchieta": 20,
+    "Flor do Sertão": 18,
+    "Mondaí": 15,
+    "Palma Sola": 12
+  },
+  "Guaramirim": {
+    "Corupá": 10,
+    "Jaraguá do Sul": 7,
+    "Joinville": 12,
+    "Schroeder": 18
+  },
+  "Guarujá do Sul": {
+    "Anchieta": 25,
+    "Flor do Sertão": 12,
+    "Palma Sola": 22
+  },
+  "Guatambú": {
+    "Caxambu do Sul": 12,
+    "Chapecó": 15,
+    "Faxinal dos Guedes": 18
+  },
+  "Herval d'Oeste": {
+    "Araranguá": 22,
+    "Correia Pinto": 22,
+    "Erval Velho": 20,
+    "Jaborá": 18
+  },
+  "Ibiam": {
+    "Ipumirim": 10,
+    "Peritiba": 15,
+    "Vargeão": 18
+  },
+  "Ibicaré": {
+    "Catanduvas": 12,
+    "Herval d'Oeste": 18,
+    "Jaborá": 15
+  },
+  "Ibirama": {
+    "Dona Emma": 12,
+    "José Boiteux": 18,
+    "Presidente Getúlio": 15,
+    "Rio do Campo": 12
+  },
+  "Içara": {
+    "Balneário Rincão": 15,
+    "Cocal do Sul": 10,
+    "Criciúma": 10
+  },
+  "Ilhota": {
+    "Blumenau": 15,
+    "Gaspar": 10,
+    "Navegantes": 20
+  },
+  "Imaruí": {
+    "Capivari de Baixo": 15,
+    "Garopaba": 18,
+    "Imbituba": 10,
+    "Paulo Lopes": 15
+  },
+  "Imbituba": {
+    "Garopaba": 15,
+    "Imaruí": 10,
+    "Laguna": 12,
+    "Pescaria Brava": 18
+  },
+  "Imbuia": {
+    "Mirim Doce": 12,
+    "Pouso Redondo": 15,
+    "Rio do Sul": 18
+  },
+  "Indaial": {
+    "Apiúna": 20,
+    "Ascurra": 15,
+    "Benedito Novo": 28,
+    "Blumenau": 15
+  },
+  "Iomerê": {
+    "Ipira": 15,
+    "Jaborá": 12,
+    "Jaborá": 15,
+    "Videira": 18
+  },
+  "Ipira": {
+    "Arabutã": 22,
+    "Iomerê": 15,
+    "Jaborá": 20,
+    "Jaborá": 25
+  },
+  "Iporã do Oeste": {
+    "Bom Jesus do Oeste": 18,
+    "Descanso": 15,
+    "Mondaí": 18
+  },
+  "Ipuaçu": {
+    "Abelardo Luz": 10,
+    "Coronel Freitas": 15,
+    "Xanxerê": 18
+  },
+  "Ipumirim": {
+    "Arabutã": 25,
+    "Galvão": 15,
+    "Ibiam": 10,
+    "Ipira": 20
+  },
+  "Iraceminha": {
+    "Paial": 22,
+    "Seara": 15,
+    "Xavantina": 18
+  },
+  "Irani": {
+    "Arabutã": 25,
+    "Arvoredo": 12,
+    "Concórdia": 15,
+    "Coronel Martins": 20
+  },
+  "Irati": {
+    "Arvoredo": 18,
+    "Jaborá": 15,
+    "Videira": 20
+  },
+  "Irineópolis": {
+    "Bela Vista do Toldo": 12,
+    "Major Vieira": 15,
+    "Porto União": 15
+  },
+  "Itá": {
+    "Concórdia": 20,
+    "Chapecó": 18,
+    "Seara": 20
+  },
+  "Itaiópolis": {
+    "Papanduva": 15,
+    "Rio Negrinho": 18,
+    "São Bento do Sul": 20
+  },
+  "Itajaí": {
+    "Balneário Camboriú": 15,
+    "Itapema": 10,
+    "Navegantes": 10
+  },
+  "Itapema": {
+    "Balneário Camboriú": 15,
+    "Bombinhas": 10,
+    "Itajaí": 10,
+    "Navegantes": 10
+  },
+  "Itapiranga": {
+    "Dionísio Cerqueira": 25,
+    "Descanso": 10,
+    "Iporã do Oeste": 15,
+    "Mondaí": 18
+  },
+  "Itapoá": {
+    "Araquari": 22,
+    "Balneário Barra do Sul": 20,
+    "Barra Velha": 20,
+    "Guarapuava": 15
+  },
+  "Ituporanga": {
+    "Alto Bela Vista": 22,
+    "Petrolândia": 25,
+    "Rio do Sul": 10
+  },
+  "Jaborá": {
+    "Água Doce": 19,
+    "Catanduvas": 8,
+    "Erval Velho": 25,
+    "Herval d'Oeste": 18,
+    "Ibicaré": 15,
+    "Ipira": 20,
+    "Irani": 15,
+    "Irati": 15,
+    "Treze Tílias": 10,
+    "Videira": 10
+  },
+  "Jacinto Machado": {
+    "Araranguá": 22,
+    "Balneário Arroio do Silva": 15,
+    "Balneário Gaivota": 20,
+    "Meleiro": 18
+  },
+  "Jaguaruna": {
+    "Capivari de Baixo": 22,
+    "Garopaba": 22,
+    "Imbituba": 15
+  },
+  "Jaraguá do Sul": {
+    "Corupá": 21,
+    "Guaramirim": 7,
+    "Joinville": 18,
+    "Pomerode": 14,
+    "Schroeder": 25
+  },
+  "Jardinópolis": {
+    "Cordilheira Alta": 22,
+    "Faxinal dos Guedes": 18,
+    "Xaxim": 20
+  },
+  "Joaçaba": {
+    "Água Doce": 12,
+    "Luzerna": 18,
+    "Treze Tílias": 10,
+    "Videira": 15
+  },
+  "Joinville": {
+    "Araquari": 22,
+    "Balneário Barra do Sul": 18,
+    "Balneário Piçarras": 30,
+    "Guaramirim": 12,
+    "Jaraguá do Sul": 18
+  },
+  "José Boiteux": {
+    "Dona Emma": 18,
+    "Ibirama": 18,
+    "Presidente Getúlio": 15,
+    "Rio do Campo": 15
+  },
+  "Jupiá": {
+    "Concórdia": 18,
+    "Curitibanos": 20,
+    "Vargem Bonita": 12
+  },
+  "Lacerdópolis": {
+    "Água Doce": 15,
+    "Bom Jesus": 18,
+    "Calmon": 18,
+    "Faxinal dos Guedes": 18,
+    "Treze Tílias": 12,
+    "Videira": 15
+  },
+  "Lages": {
+    "Anita Garibaldi": 25,
+    "Bocaina do Sul": 20,
+    "Bom Retiro": 25,
+    "Capão Alto": 20,
+    "Correia Pinto": 15,
+    "Otacílio Costa": 15,
+    "Painel": 18,
+    "Palmeira": 12
+  },
+  "Laguna": {
+    "Garopaba": 25,
+    "Gravatal": 15,
+    "Imbituba": 12,
+    "Paulo Lopes": 20
+  },
+  "Lajeado Grande": {
+    "Ipuaçu": 18,
+    "Marema": 15,
+    "Xanxerê": 10
+  },
+  "Laurentino": {
+    "Chapadão do Lageado": 10,
+    "Lontras": 15,
+    "Rio do Oeste": 12
+  },
+  "Lauro Muller": {
+    "Braço do Norte": 10,
+    "Orleans": 12,
+    "Urussanga": 15
+  },
+  "Lebon Régis": {
+    "Calmon": 8,
+    "Fraiburgo": 18,
+    "Ponte Alta do Norte": 15
+  },
+  "Leoberto Leal": {
+    "Angelina": 18,
+    "Major Gercino": 15,
+    "São Bonifácio": 20
+  },
+  "Lindóia do Sul": {
+    "Coronel Freitas": 18,
+    "Iraceminha": 15,
+    "Xaxim": 20
+  },
+  "Lontras": {
+    "Agronômica": 12,
+    "Laurentino": 15,
+    "Taió": 18
+  },
+  "Luiz Alves": {
+    "Blumenau": 18,
+    "Gaspar": 15,
+    "Guaramirim": 20,
+    "Massaranduba": 25
+  },
+  "Luzerna": {
+    "Capinzal": 12,
+    "Joaçaba": 18,
+    "Ouro": 15,
+    "Treze Tílias": 10,
+    "Videira": 12
+  },
+  "Macieira": {
+    "Água Doce": 12,
+    "Calmon": 18,
+    "Jaborá": 18,
+    "Pinheiro Preto": 15
+  },
+  "Mafra": {
+    "Canoinhas": 25,
+    "Papanduva": 10,
+    "Porto União": 18,
+    "Rio Negrinho": 15
+  },
+  "Major Gercino": {
+    "Angelina": 15,
+    "Leoberto Leal": 15,
+    "Nova Trento": 12,
+    "São João Batista": 18
+  },
+  "Major Vieira": {
+    "Bela Vista do Toldo": 20,
+    "Canoinhas": 15,
+    "Irineópolis": 15,
+    "Porto União": 18
+  },
+  "Maracajá": {
+    "Araranguá": 12,
+    "Balneário Arroio do Silva": 18,
+    "Jacinto Machado": 18,
+    "Meleiro": 20
+  },
+  "Maravilha": {
+    "Cunha Porã": 20,
+    "Iraceminha": 22,
+    "Palmitos": 18
+  },
+  "Marema": {
+    "Faxinal dos Guedes": 18,
+    "Lajeado Grande": 15,
+    "Xaxim": 18
+  },
+  "Massaranduba": {
+    "Guaramirim": 25,
+    "Jaraguá do Sul": 30,
+    "Joinville": 20,
+    "Schroeder": 12
+  },
+  "Matos Costa": {
+    "Caçador": 20
+
+,
+    "Calmon": 18,
+    "Cerro Negro": 10
+  },
+  "Meleiro": {
+    "Balneário Arroio do Silva": 18,
+    "Jacinto Machado": 18,
+    "Maracajá": 20,
+    "Turvo": 18
+  },
+  "Mirim Doce": {
+    "Imbuia": 12,
+    "Rio do Sul": 18,
+    "Taió": 10
+  },
+  "Modelo": {
+    "Anchieta": 15,
+    "Guaraciaba": 18,
+    "Maravilha": 22
+  },
+  "Mondaí": {
+    "Bom Jesus do Oeste": 18,
+    "Descanso": 15,
+    "Iporã do Oeste": 18,
+    "São João do Oeste": 12
+  },
+  "Monte Carlo": {
+    "Braço do Trombudo": 20,
+    "Curitibanos": 28,
+    "Fraiburgo": 22,
+    "Jaborá": 25,
+    "Lages": 20
+  },
+  "Monte Castelo": {
+    "Canoinhas": 20,
+    "Papanduva": 18,
+    "Porto União": 15,
+    "Rio Negrinho": 20
+  },
+  "Morro da Fumaça": {
+    "Criciúma": 10,
+    "Forquilhinha": 8,
+    "Nova Veneza": 18,
+    "Siderópolis": 15
+  },
+  "Morro Grande": {
+    "Ermo": 12,
+    "Jacinto Machado": 15,
+    "Turvo": 15
+  },
+  "Navegantes": {
+    "Balneário Piçarras": 20,
+    "Balneário Camboriú": 10,
+    "Ilhota": 20,
+    "Itajaí": 10
+  },
+  "Nova Erechim": {
+    "Pinhalzinho": 15,
+    "São Lourenço do Oeste": 18,
+    "Xanxerê": 20
+  },
+  "Nova Itaberaba": {
+    "Pinhalzinho": 20,
+    "São Lourenço do Oeste": 18,
+    "Xanxerê": 15
+  },
+  "Nova Trento": {
+    "Botuverá": 15,
+    "Major Gercino": 12,
+    "São João Batista": 10
+  },
+  "Nova Veneza": {
+    "Forquilhinha": 15,
+    "Morro da Fumaça": 18,
+    "Siderópolis": 12
+  },
+  "Novo Horizonte": {
+    "Ipumirim": 12,
+    "Jaborá": 18,
+    "Xavantina": 15
+  },
+  "Orleans": {
+    "Bom Jardim da Serra": 25,
+    "Lauro Muller": 12,
+    "São Ludgero": 18,
+    "Urussanga": 12
+  },
+  "Otacílio Costa": {
+    "Bocaina do Sul": 25,
+    "Bom Jardim da Serra": 12,
+    "Bom Retiro": 15,
+    "Lages": 15,
+    "Painel": 20
+  },
+  "Ouro": {
+    "Capinzal": 15,
+    "Luzerna": 15,
+    "Zortéa": 10
+  },
+  "Ouro Verde": {
+    "Faxinal dos Guedes": 12,
+    "Ipuaçu": 18,
+    "Xaxim": 15
+  },
+  "Paial": {
+    "Arabutã": 20,
+    "Iraceminha": 22,
+    "Xavantina": 18
+  },
+  "Painel": {
+    "Bocaina do Sul": 20,
+    "Bom Jardim da Serra": 15,
+    "Bom Retiro": 18,
+    "Correia Pinto": 18,
+    "Otacílio Costa": 20
+  },
+  "Palhoça": {
+    "Biguaçu": 28,
+    "Florianópolis": 35,
+    "Santo Amaro da Imperatriz": 22,
+    "São José": 15
+  },
+  "Palma Sola": {
+    "Anchieta": 25,
+    "Cunha Porã": 12,
+    "Guaraciaba": 12,
+    "São Carlos": 25
+  },
+  "Palmeira": {
+    "Correia Pinto": 18,
+    "Lages": 12,
+    "São Joaquim": 15
+  },
+  "Palmitos": {
+    "Barra Bonita": 18,
+    "Cunha Porã": 18,
+    "Maravilha": 18
+  },
+  "Papanduva": {
+    "Canoinhas": 20,
+    "Itaiópolis": 15,
+    "Mafra": 10,
+    "Monte Castelo": 18
+  },
+  "Paraíso": {
+    "Campo Erê": 25,
+    "Iraceminha": 20,
+    "São Carlos": 18
+  },
+  "Passo de Torres": {
+    "Ermo": 18,
+    "Sombrio": 10,
+    "Turvo": 15
+  },
+  "Passos Maia": {
+    "Irani": 12,
+    "Jaborá": 18,
+    "Xaxim": 20
+  },
+  "Paulo Lopes": {
+    "Garopaba": 20,
+    "Imbituba": 15,
+    "Laguna": 20,
+    "São Martinho": 15
+  },
+  "Pedras Grandes": {
+    "Gravatal": 18,
+    "Lauro Muller": 15,
+    "Orleans": 12
+  },
+  "Penha": {
+    "Balneário Piçarras": 12,
+    "Itajaí": 15,
+    "Navegantes": 20
+  },
+  "Peritiba": {
+    "Ibiam": 15,
+    "Ipumirim": 20,
+    "Jaborá": 22
+  },
+  "Petrolândia": {
+    "Ituporanga": 25,
+    "Rio do Sul": 15,
+    "Taió": 18
+  },
+  "Pinhalzinho": {
+    "Nova Erechim": 15,
+    "Nova Itaberaba": 20,
+    "São Carlos": 20,
+    "São Domingos": 18
+
+
+  },
+  "Pinheiro Preto": {
+    "Fraiburgo": 15,
+    "Macieira": 15,
+    "Treze Tílias": 15
+  },
+  "Piratuba": {
+    "Arabutã": 18,
+    "Capinzal": 15,
+    "Ipira": 20,
+    "Tangará": 25
+  },
+  "Planalto Alegre": {
+    "Formosa do Sul": 15,
+    "Quilombo": 18,
+    "Xaxim": 18
+  },
+  "Pomerode": {
+    "Corupá": 30,
+    "Jaraguá do Sul": 14,
+    "Rio dos Cedros": 15,
+    "Schroeder": 12
+  },
+  "Ponte Alta": {
+    "Campo Belo do Sul": 25,
+    "Curitibanos": 10,
+    "Curitibanos": 15,
+    "Ponte Alta do Norte": 10
+  },
+  "Ponte Alta do Norte": {
+    "Curitibanos": 15,
+    "Curitibanos": 15,
+    "Lebon Régis": 15,
+    "Painel": 18,
+    "Timbó Grande": 12
+  },
+  "Ponte Serrada": {
+    "Água Doce": 18,
+    "Campos Novos": 20,
+    "Erval Velho": 18,
+    "Fraiburgo": 15,
+    "Vargem Bonita": 20,
+    "Videira": 12
+  },
+  "Porto Belo": {
+    "Bombinhas": 15,
+    "Bombinhas": 10,
+    "Camboriú": 10,
+    "Itajaí": 15
+  },
+  "Porto União": {
+    "Mafra": 18,
+    "Major Vieira": 18,
+    "Monte Castelo": 15
+  },
+  "Pouso Redondo": {
+    "Imbuia": 15,
+    "Rio do Sul": 10,
+    "Taió": 18
+  },
+  "Praia Grande": {
+    "Araranguá": 20,
+    "Balneário Arroio do Silva": 22,
+    "Jacinto Machado": 20,
+    "Meleiro": 18
+  },
+  "Presidente Castello Branco": {
+    "Cunha Porã": 22,
+    "Maravilha": 22,
+    "São Carlos": 18
+  },
+  "Presidente Getúlio": {
+    "Dona Emma": 15,
+    "José Boiteux": 15,
+    "Rio do Oeste": 12
+  },
+  "Presidente Nereu": {
+    "Atalanta": 15,
+    "Aurora": 12,
+    "Lontras": 12,
+    "Rio do Sul": 18
+  },
+  "Princesa": {
+    "São Carlos": 15,
+    "São José do Cedro": 18,
+    "São Miguel da Boa Vista": 20
+  },
+  "Quilombo": {
+    "Formosa do Sul": 18,
+    "Nova Erechim": 18,
+    "Xanxerê": 20
+  },
+  "Rancho Queimado": {
+    "Angelina": 10,
+    "Anitápolis": 18,
+    "São Bonifácio": 15,
+    "São Martinho": 12
+  },
+  "Rio das Antas": {
+    "Fraiburgo": 25,
+    "Videira": 15
+  },
+  "Rio do Campo": {
+    "Dona Emma": 15,
+    "Ibirama": 12,
+    "José Boiteux": 15,
+    "Presidente Getúlio": 12
+  },
+  "Rio do Oeste": {
+    "Aurora": 10,
+    "Doutor Pedrinho": 15,
+    "Ibirama": 12,
+    "Presidente Getúlio": 12,
+    "Taió": 15
+  },
+  "Rio do Sul": {
+    "Agrolândia": 12,
+    "Atalanta": 12,
+    "Laurentino": 18,
+    "Mirim Doce": 18,
+    "Petrolândia": 15,
+    "Pouso Redondo": 10,
+    "Presidente Nereu": 18,
+    "Taió": 12,
+    "Vidal Ramos": 15
+  },
+  "Rio dos Cedros": {
+    "Benedito Novo": 12,
+    "Doutor Pedrinho": 15,
+    "Pomerode": 15,
+    "Timbó": 12
+  },
+  "Rio Fortuna": {
+    "Armazém": 18,
+    "Grão Pará": 18,
+    "Gravatal": 12,
+    "Tubarão": 15
+  },
+  "Rio Negrinho": {
+    "Mafra": 15,
+    "Monte Castelo": 20,
+    "Papanduva": 18,
+    "Porto União": 15
+  },
+  "Rio Rufino": {
+    "Bom Retiro": 25,
+    "Grão Pará": 20,
+    "Painel": 25,
+    "Urubici": 18
+  },
+  "Riqueza": {
+    "Itapiranga": 18,
+    "Mondaí": 18,
+    "Palmitos": 20
+  },
+  "Rodeio": {
+    "Ascurra": 15,
+    "Blumenau": 20,
+    "Doutor Pedrinho": 22
+  },
+  "Romelândia": {
+    "Anchieta": 20,
+    "Cunha Porã": 25,
+    "Mondaí": 15,
+    "São Miguel da Boa Vista": 18
+  },
+  "Salete": {
+    "Taió": 12,
+    "Trombudo Central": 15
+  },
+  "Saltinho": {
+    "Arabutã": 15,
+    "Concórdia": 20,
+    "Ipira": 15
+  },
+  "Salto Veloso": {
+    "Arabutã": 18,
+    "Arvoredo": 20,
+    "Concórdia": 22,
+    "Tangará": 15
+  },
+  "Sangão": {
+    "Imaruí": 18,
+    "Içara": 15,
+    "Tubarão": 12
+  },
+  "Santa Cecília": {
+    "Bom Retiro": 20,
+    "Lebon Régis": 18,
+    "Ponte Alta do Norte": 
+
+15,
+    "Rio do Campo": 25
+  },
+  "Santa Helena": {
+    "Dionísio Cerqueira": 18,
+    "São José do Cedro": 12,
+    "Tunápolis": 20
+  },
+  "Santa Rosa de Lima": {
+    "Anitápolis": 18,
+    "Gravatal": 22,
+    "Imaruí": 15,
+    "Orleans": 18
+  },
+  "Santa Rosa do Sul": {
+    "Araranguá": 15,
+    "Ermo": 20,
+    "Meleiro": 20
+  },
+  "Santa Terezinha": {
+    "Água Doce": 18,
+    "Arroio Trinta": 20,
+    "Jaborá": 18
+  },
+  "Santa Terezinha do Progresso": {
+    "Arabutã": 20,
+    "Ipumirim": 22,
+    "Seara": 18
+  },
+  "Santiago do Sul": {
+    "Galvão": 18,
+    "Ipuaçu": 20,
+    "Vargeão": 12
+  },
+  "Santo Amaro da Imperatriz": {
+    "Alfredo Wagner": 22,
+    "Angelina": 20,
+    "Governador Celso Ramos": 18,
+    "Palhoça": 22
+  },
+  "São Bento do Sul": {
+    "Corupá": 20,
+    "Itaiópolis": 20,
+    "Rio Negrinho": 25,
+    "Schroeder": 25
+  },
+  "São Bernardino": {
+    "São Domingos": 18,
+    "São Lourenço do Oeste": 15,
+    "Xaxim": 20
+  },
+  "São Bonifácio": {
+    "Rancho Queimado": 15,
+    "Leoberto Leal": 20,
+    "São Martinho": 12
+  },
+  "São Carlos": {
+    "Cunha Porã": 18,
+    "Maravilha": 18,
+    "Palma Sola": 25,
+    "Paraíso": 18,
+    "Princesa": 15,
+    "Presidente Castello Branco": 18,
+    "Salto Veloso": 15
+  },
+  "São Cristovão do Sul": {
+    "Arabutã": 25,
+    "Herval d'Oeste": 20,
+    "Jaborá": 18,
+    "Jaborá": 20
+  },
+  "São Domingos": {
+    "Chapecó": 22,
+    "Seara": 20,
+    "Xaxim": 22
+  },
+  "São Francisco do Sul": {
+    "Araquari": 20,
+    "Balneário Barra do Sul": 22,
+    "Garuva": 20
+  },
+  "São João Batista": {
+    "Major Gercino": 18,
+    "Nova Trento": 10,
+    "Tijucas": 15
+  },
+  "São João do Itaperiú": {
+    "Corupá": 18,
+    "Guaramirim": 15,
+    "Itaiópolis": 15,
+    "Jaraguá do Sul": 18,
+    "Joinville": 15
+  },
+  "São João do Oeste": {
+    "Dionísio Cerqueira": 18,
+    "Guaraciaba": 12,
+    "Mondaí": 12,
+    "Paraíso": 18
+  },
+  "São João do Sul": {
+    "Balneário Arroio do Silva": 20,
+    "Meleiro": 22,
+    "Turvo": 15
+  },
+  "São Joaquim": {
+    "Bom Jardim da Serra": 12,
+    "Lages": 15,
+    "Otacílio Costa": 20,
+    "Urubici": 18
+  },
+  "São José": {
+    "Biguaçu": 15,
+    "Florianópolis": 20,
+    "Palhoça": 15,
+    "Santo Amaro da Imperatriz": 22
+  },
+  "São José do Cedro": {
+    "Dionísio Cerqueira": 18,
+    "Palma Sola": 18,
+    "Princesa": 18,
+    "Santa Helena": 12,
+    "São Lourenço do Oeste": 18
+  },
+  "São José do Cerrito": {
+    "Anita Garibaldi": 20,
+    "Campos Novos": 20,
+    "Curitibanos": 12,
+    "Fraiburgo": 18,
+    "Lages": 20
+  },
+  "São Lourenço do Oeste": {
+    "Descanso": 18,
+    "Dionísio Cerqueira": 20,
+    "Galvão": 12,
+    "São José do Cedro": 18,
+    "São Miguel da Boa Vista": 20
+  },
+  "São Ludgero": {
+    "Braço do Norte": 15,
+    "Orleans": 18,
+    "Tubarão": 20
+  },
+  "São Martinho": {
+    "Araranguá": 15,
+    "Ermo": 15,
+    "Rancho Queimado": 12,
+    "Paulo Lopes": 15,
+    "São Bonifácio": 12
+  },
+  "São Miguel da Boa Vista": {
+    "Descanso": 18,
+    "Iraceminha": 18,
+    "Princesa": 20,
+    "São Lourenço do Oeste": 20
+  },
+  "São Miguel do Oeste": {
+    "Descanso": 15,
+    "Dionísio Cerqueira": 18,
+    "Guaraciaba": 18,
+    "Paraíso": 18
+  },
+  "São Pedro de Alcântara": {
+    "Angelina": 22,
+    "Antônio Carlos": 18,
+    "Biguaçu": 20
+  },
+  "Saudades": {
+    "Águas de Chapecó": 18,
+    "Pinhalzinho": 18,
+    "São Carlos": 25,
+    "Xanxerê": 15
+  },
+  "Schroeder": {
+    "Corupá": 20,
+    "Jaraguá do Sul": 25,
+    "Massaranduba": 12,
+    "Pomerode": 12
+  },
+  "Seara": {
+    "Chapecó": 20,
+    "Concórdia": 15,
+    "Xavantina": 15,
+    "Xaxim": 20
+  },
+  "Serra Alta": {
+    "Anchieta": 20,
+    "Guaraciaba": 15,
+    "Iporã do Oeste": 12,
+    "Mondaí": 20
+  },
+  "Siderópolis": {
+    "Cocal do Sul": 18,
+    "Forquilhinha": 15,
+    "Içara": 15,
+    "Morro da Fumaça": 15,
+    "Nova Veneza": 12,
+    "Treviso": 18
+  },
+  "Sombrio": {
+    "Balneário Arroio do Silva": 20,
+    "Ermo": 20,
+    "Garopaba": 22,
+    "Meleiro": 18,
+    "Passo de Torres": 10
+  },
+  "Sul Brasil": {
+    "Cunha Porã": 20,
+    "Maravilha": 18,
+    "Pinhalzinho": 20
+  },
+  "Taió": {
+    "Agronômica": 12,
+    "Mirim Doce": 10,
+    "Pouso Redondo": 18,
+    "Presidente Nereu": 12,
+    "Rio do Sul": 12,
+    "Salete": 12
+  },
+  "Tangará": {
+    "Capinzal": 20,
+    "Pinheiro Preto": 15,
+    "Piratuba": 25,
+    "Salto Veloso": 15
+  },
+  "Tigrinhos": {
+    "Anita Garibaldi": 18,
+    "Arroio Trinta": 15,
+    "Pinheiro Preto": 20
+  },
+  "Tijucas": {
+    "Biguaçu": 15,
+    "Governador Celso Ramos": 15,
+    "São João Batista": 15
+  },
+  "Timbé do Sul": {
+    "Araranguá": 15,
+    "Ermo": 22,
+    "Jacinto Machado": 18,
+    "Morro Grande": 15,
+    "Turvo": 20
+  },
+  "Timbó": {
+    "Benedito Novo": 12,
+    "Doutor Pedrinho": 15,
+    "Indaial": 10,
+    "Pomerode": 15,
+    "Rio dos Cedros": 12
+  },
+  "Timbó Grande": {
+    "Campo Belo do Sul": 25,
+    "Curitibanos": 20,
+    "Lebon Régis": 15,
+    "Ponte Alta do Norte": 12
+  },
+  "Três Barras": {
+    "Canoinhas": 25,
+    "Irineópolis": 20,
+    "Porto União": 15
+  },
+  "Treviso": {
+    "Cocal do Sul": 20,
+    "Forquilhinha": 18,
+    "Nova Veneza": 15,
+    "Siderópolis": 18
+  },
+  "Treze de Maio": {
+    "Araranguá": 18,
+    "Meleiro": 15,
+    "Morro da Fumaça": 18
+  },
+  "Treze Tílias": {
+    "Água Doce": 10,
+    "Jaborá": 10,
+    "Lacerdópolis": 12,
+    "Luzerna": 10,
+    "Rio do Sul": 12,
+    "Videira": 12
+  },
+  "Trombudo Central": {
+    "Lontras": 15,
+    "Rio do Oeste": 12,
+    "Salete": 15
+  },
+  "Tubarão": {
+    "Armazém": 15,
+    "Capivari de Baixo": 15,
+    "Criciúma": 15,
+    "Garopaba": 20,
+    "Gravatal": 15,
+    "Imbituba": 20,
+    "Lauro Muller": 15,
+    "Orleans": 15,
+    "Santa Rosa de Lima": 20,
+    "Sangão": 12,
+    "Siderópolis": 20
+  },
+  "Tunápolis": {
+    "Guaraciaba": 12,
+    "Santa Helena": 20,
+    "São Miguel da Boa Vista": 18
+  },
+  "Turvo": {
+    "Jacinto Machado": 18,
+    "Meleiro": 18,
+    "Morro Grande": 15,
+    "Passo de Torres": 15,
+    "Timbé do Sul": 20
+  },
+  "União do Oeste": {
+    "Iporã do Oeste": 18,
+    "Jaborá": 20,
+    "Xaxim": 20
+  },
+  "Urubici": {
+    "Bom Retiro": 20,
+    "Lages": 18,
+    "São Joaquim": 18
+  },
+  "Urupema": {
+    "Bom Jardim da Serra": 12,
+    "Bom Retiro": 25,
+    "Grão Pará": 20,
+    "Rio Rufino": 18
+  },
+  "Urussanga": {
+    "Braço do Norte": 15,
+    "Cocal do Sul": 15,
+    "Lauro Muller": 15,
+    "Orleans": 12
+  },
+  "Vargeão": {
+    "Galvão": 12,
+    "Ibiam": 18,
+    "Ipumirim": 20,
+    "Santiago do Sul": 12
+  },
+  "Vargem": {
+    "Brunópolis": 15,
+    "Coxilha": 20,
+    "Fraiburgo": 20,
+    "Monte Carlo": 20,
+    "Videira": 18
+  },
+  "Vargem Bonita": {
+    "Campos Novos": 15,
+    "Curitibanos": 20,
+    "Herval d'Oeste": 20,
+    "Jaborá": 15,
+    "Ponte Serrada": 20,
+    "Videira": 15
+  },
+  "Vidal Ramos": {
+    "Benedito Novo": 15,
+    "Doutor Pedrinho": 12,
+    "Rio do Sul": 15,
+    "Taió": 15
+  },
+  "Videira": {
+    "Arroio Trinta": 20,
+    "Fraiburgo": 20,
+    "Ibicaré": 18,
+    "Iomerê": 15,
+    "Jaborá": 10,
+    "Lacerdópolis": 15,
+    "Pinheiro Preto": 15
+
+,
+    "Rio das Antas": 15,
+    "Tangará": 15,
+    "Treze Tílias": 12,
+    "Vargem": 18,
+    "Vargem Bonita": 15
+  },
+  "Vitor Meireles": {
+    "Benedito Novo": 20,
+    "Doutor Pedrinho": 18,
+    "Ibirama": 18,
+    "Josefina": 20
+  },
+  "Witmarsum": {
+    "Benedito Novo": 20,
+    "Doutor Pedrinho": 18,
+    "Guaramirim": 12,
+    "Pomerode": 22
+  },
+  "Xanxerê": {
+    "Abelardo Luz": 20,
+    "Faxinal dos Guedes": 25,
+    "Ipuaçu": 18,
+    "Jupiá": 20,
+    "Nova Erechim": 20,
+    "Nova Itaberaba": 15,
+    "Ponte Serrada": 20,
+    "Xaxim": 15
+  },
+  "Xavantina": {
+    "Arabutã": 20,
+    "Ipira": 15,
+    "Piratuba": 25,
+    "Presidente Nereu": 20,
+    "Seara": 15
+  },
+  "Xaxim": {
+    "Chapecó": 20,
+    "Cordilheira Alta": 20,
+    "Lajeado Grande": 20,
+    "Passos Maia": 20,
+    "Seara": 20,
+    "Seara": 20,
+    "Sul Brasil": 20,
+    "União do Oeste": 20,
+    "Xanxerê": 15
+  },
+  "Zortéa": {
+    "Capinzal": 10,
+    "Herval d'Oeste": 15,
+    "Ouro": 10
+  }
+}
