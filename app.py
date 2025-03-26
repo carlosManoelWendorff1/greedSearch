@@ -40,7 +40,7 @@ def greedy_path(map_data, origin, destination, graph, pos):
             return None, 0
 
         possible_moves = {city: dist for city, dist in neighbors.items() if city not in visited}
-
+        print(possible_moves)
         if not possible_moves:
             print(f"Dead end at {current}. Backtracking...")
             path.pop()
@@ -56,20 +56,19 @@ def greedy_path(map_data, origin, destination, graph, pos):
 
         if next_city == destination:
             print(f"Arrived at: {destination}")
+            print("\nFinal Path:", " -> ".join(path))
+            print("Total distance:", total_distance, "km")
             break
 
         current = next_city
 
-    # Remove cidades não visitadas
     clean_map(graph, path, pos)
 
     draw_map(graph, pos, path, current, ax, final=True)
     plt.ioff()
     plt.show()
 
-    # Exibe o caminho no terminal
-    print("\nFinal Path:", " -> ".join(path))
-    print("Total distance:", total_distance, "km")
+    
 
     return path, total_distance
 
@@ -84,7 +83,6 @@ def draw_map(graph, pos, path, current, ax, final=False):
     ax.clear()
     ax.set_title("Mapa de Cidades - Busca Gulosa")
 
-    # Mantém apenas as cidades visitadas
     subgraph = graph.subgraph(path)
 
     nx.draw(subgraph, pos, with_labels=True, node_size=300, node_color="lightgray", edge_color="gray", ax=ax)
